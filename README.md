@@ -8,4 +8,4 @@ Instead, wouldn’t it be nice to display a placeholder at first, and images wou
 FadeInImage works with images of any type: in-memory, local assets, or images from the internet.
 
 
-![output]("https://flutter.dev/images/cookbook/fading-in-images.gif")
+    <img src="https://flutter.dev/images/cookbook/fading-in-images.gif" width=270 height=480>
